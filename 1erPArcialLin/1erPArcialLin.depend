@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1635091796 source:/home/braian/codeblocks-workspace/1erPArcialLin/fecha.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+
+1635091796 /home/braian/codeblocks-workspace/1erPArcialLin/fecha.h
+
+1635346568 source:/home/braian/codeblocks-workspace/1erPArcialLin/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<stdio_ext.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"funciones.h"
+	"fecha.h"
+
+1635172970 source:/home/braian/codeblocks-workspace/1erPArcialLin/tipo.c
+	<stdio.h>
+	<stdlib.h>
+	"tipo.h"
+
+1635111851 /home/braian/codeblocks-workspace/1erPArcialLin/tipo.h
+
+1635172970 source:/home/braian/codeblocks-workspace/1erPArcialLin/color.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1635117213 /home/braian/codeblocks-workspace/1erPArcialLin/color.h
+
+1635307006 source:/home/braian/codeblocks-workspace/1erPArcialLin/bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio_ext.h>
+	<ctype.h>
+	<string.h>
+	"bicicleta.h"
+	"color.h"
+	"fecha.h"
+	"servicio.h"
+	"tipo.h"
+	"trabajo.h"
+	"funciones.h"
+
+1635307006 /home/braian/codeblocks-workspace/1erPArcialLin/bicicleta.h
+	"color.h"
+	"fecha.h"
+	"tipo.h"
+
+1635114390 source:/home/braian/codeblocks-workspace/1erPArcialLin/servicio.c
+	<stdio.h>
+	<stdlib.h>
+	"servicio.h"
+
+1635114219 /home/braian/codeblocks-workspace/1erPArcialLin/servicio.h
+
+1635339635 source:/home/braian/codeblocks-workspace/1erPArcialLin/trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"bicicleta.h"
+	"servicio.h"
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"funciones.h"
+
+1635338913 /home/braian/codeblocks-workspace/1erPArcialLin/trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"bicicleta.h"
+	"color.h"
+
+1635346185 source:/home/braian/codeblocks-workspace/1erPArcialLin/funciones.c
+	<stdio.h>
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	"bicicleta.h"
+	"color.h"
+	"tipo.h"
+	"funciones.h"
+	"trabajo.h"
+	"servicio.h"
+
+1635346185 /home/braian/codeblocks-workspace/1erPArcialLin/funciones.h
+	"color.h"
+	"fecha.h"
+	"servicio.h"
+	"trabajo.h"
+
